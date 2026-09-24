@@ -1,4 +1,4 @@
-# Duplicacy: A lock-free deduplication cloud backup tool
+# UltimateBackup: A lock-free deduplication cloud backup tool
 
 Duplicacy is a new generation cross-platform cloud backup tool based on the idea of [Lock-Free Deduplication](https://github.com/gilbertchen/duplicacy/wiki/Lock-Free-Deduplication).
 
